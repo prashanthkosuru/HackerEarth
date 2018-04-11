@@ -1,0 +1,10 @@
+D:\hackerearth\BinaryTree\obj\Debug\netcoreapp2.0\BinaryTree.csproj.CoreCompileInputs.cache
+D:\hackerearth\BinaryTree\obj\Debug\netcoreapp2.0\BinaryTree.AssemblyInfoInputs.cache
+D:\hackerearth\BinaryTree\obj\Debug\netcoreapp2.0\BinaryTree.AssemblyInfo.cs
+D:\hackerearth\BinaryTree\bin\Debug\netcoreapp2.0\BinaryTree.deps.json
+D:\hackerearth\BinaryTree\bin\Debug\netcoreapp2.0\BinaryTree.runtimeconfig.json
+D:\hackerearth\BinaryTree\bin\Debug\netcoreapp2.0\BinaryTree.runtimeconfig.dev.json
+D:\hackerearth\BinaryTree\bin\Debug\netcoreapp2.0\BinaryTree.dll
+D:\hackerearth\BinaryTree\bin\Debug\netcoreapp2.0\BinaryTree.pdb
+D:\hackerearth\BinaryTree\obj\Debug\netcoreapp2.0\BinaryTree.dll
+D:\hackerearth\BinaryTree\obj\Debug\netcoreapp2.0\BinaryTree.pdb

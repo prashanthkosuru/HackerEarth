@@ -1,0 +1,10 @@
+D:\hackerearth\CodeMonk\MonkAndHisUniqueTrip\bin\Debug\netcoreapp2.0\MonkAndHisUniqueTrip.deps.json
+D:\hackerearth\CodeMonk\MonkAndHisUniqueTrip\bin\Debug\netcoreapp2.0\MonkAndHisUniqueTrip.runtimeconfig.json
+D:\hackerearth\CodeMonk\MonkAndHisUniqueTrip\bin\Debug\netcoreapp2.0\MonkAndHisUniqueTrip.runtimeconfig.dev.json
+D:\hackerearth\CodeMonk\MonkAndHisUniqueTrip\bin\Debug\netcoreapp2.0\MonkAndHisUniqueTrip.dll
+D:\hackerearth\CodeMonk\MonkAndHisUniqueTrip\bin\Debug\netcoreapp2.0\MonkAndHisUniqueTrip.pdb
+D:\hackerearth\CodeMonk\MonkAndHisUniqueTrip\obj\Debug\netcoreapp2.0\MonkAndHisUniqueTrip.csproj.CoreCompileInputs.cache
+D:\hackerearth\CodeMonk\MonkAndHisUniqueTrip\obj\Debug\netcoreapp2.0\MonkAndHisUniqueTrip.AssemblyInfoInputs.cache
+D:\hackerearth\CodeMonk\MonkAndHisUniqueTrip\obj\Debug\netcoreapp2.0\MonkAndHisUniqueTrip.AssemblyInfo.cs
+D:\hackerearth\CodeMonk\MonkAndHisUniqueTrip\obj\Debug\netcoreapp2.0\MonkAndHisUniqueTrip.dll
+D:\hackerearth\CodeMonk\MonkAndHisUniqueTrip\obj\Debug\netcoreapp2.0\MonkAndHisUniqueTrip.pdb
